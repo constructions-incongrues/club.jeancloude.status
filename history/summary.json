@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/allo.jeancloude.club",
     "slug": "allo",
     "status": "down",
-    "uptime": "15.68%",
-    "uptimeDay": "15.68%",
-    "uptimeWeek": "15.68%",
-    "uptimeMonth": "15.68%",
-    "uptimeYear": "15.68%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-16": 0
+      "2022-01-16": 60
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/cartemembre.jeancloude.club",
     "slug": "carte-membre",
     "status": "down",
-    "uptime": "7.39%",
-    "uptimeDay": "7.39%",
-    "uptimeWeek": "7.39%",
-    "uptimeMonth": "7.39%",
-    "uptimeYear": "7.39%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-16": 0
+      "2022-01-16": 60
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/grisbi.jeancloude.club",
     "slug": "grisbi",
     "status": "down",
-    "uptime": "18.21%",
-    "uptimeDay": "18.21%",
-    "uptimeWeek": "18.21%",
-    "uptimeMonth": "18.21%",
-    "uptimeYear": "18.21%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-16": 0
+      "2022-01-16": 60
     }
   }
 ]
