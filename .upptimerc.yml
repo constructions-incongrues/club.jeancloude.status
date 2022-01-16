@@ -2,19 +2,19 @@ owner: constructions-incongrues
 repo: club.jeancloude.status
 
 sites:
-  - name: Allo ?
+  - name: allo.jeancloude.club
     url: https://allo.jeancloude.club
-  - name: Carte Membre
+  - name: cartemembre.jeancloude.club
     url: https://cartemembre.jeancloude.club
-  - name: Grisbi
+  - name: grisbi.jeancloude.club
+    url: https://grisbi.jeancloude.club
+  - name: status.jeancloude.club
     url: https://grisbi.jeancloude.club
 
 status-website:
   cname: status.jeancloude.club
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Club Jean-Cloude
-  introTitle: Le Cloude est dans l'hébergerie
-  introMessage: <https://grisbi.jeancloude.club>
   navbar:
     - title: Status
       href: /
