@@ -2,14 +2,17 @@ owner: constructions-incongrues
 repo: club.jeancloude.status
 
 sites:
-  - name: allo.jeancloude.club
+  - name: allo
     url: https://allo.jeancloude.club
-  - name: cartemembre.jeancloude.club
+  - name: cartemembre
     url: https://cartemembre.jeancloude.club
-  - name: grisbi.jeancloude.club
+  - name: grisbi
     url: https://grisbi.jeancloude.club
-  - name: status.jeancloude.club
-    url: https://grisbi.jeancloude.club
+  - name: status
+    url: https://status.jeancloude.club
+
+assignees:
+  - trivoallan
 
 status-website:
   cname: status.jeancloude.club
