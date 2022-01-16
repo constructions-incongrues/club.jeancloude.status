@@ -1,62 +1,82 @@
 [
   {
-    "name": "Allo ?",
+    "name": "allo.jeancloude.club",
     "url": "https://allo.jeancloude.club",
     "icon": "https://favicons.githubusercontent.com/allo.jeancloude.club",
-    "slug": "allo",
+    "slug": "allo-jeancloude-club",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "6.78%",
+    "uptimeDay": "6.78%",
+    "uptimeWeek": "6.78%",
+    "uptimeMonth": "6.78%",
+    "uptimeYear": "6.78%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-16": 60
+      "2022-01-16": 0
     }
   },
   {
-    "name": "Carte Membre",
+    "name": "cartemembre.jeancloude.club",
     "url": "https://cartemembre.jeancloude.club",
     "icon": "https://favicons.githubusercontent.com/cartemembre.jeancloude.club",
-    "slug": "carte-membre",
+    "slug": "cartemembre-jeancloude-club",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "12.69%",
+    "uptimeDay": "12.69%",
+    "uptimeWeek": "12.69%",
+    "uptimeMonth": "12.69%",
+    "uptimeYear": "12.69%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-16": 60
+      "2022-01-16": 0
     }
   },
   {
-    "name": "Grisbi",
+    "name": "grisbi.jeancloude.club",
     "url": "https://grisbi.jeancloude.club",
     "icon": "https://favicons.githubusercontent.com/grisbi.jeancloude.club",
-    "slug": "grisbi",
+    "slug": "grisbi-jeancloude-club",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "2.55%",
+    "uptimeDay": "2.55%",
+    "uptimeWeek": "2.55%",
+    "uptimeMonth": "2.55%",
+    "uptimeYear": "2.55%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-16": 60
+      "2022-01-16": 0
+    }
+  },
+  {
+    "name": "status.jeancloude.club",
+    "url": "https://grisbi.jeancloude.club",
+    "icon": "https://favicons.githubusercontent.com/grisbi.jeancloude.club",
+    "slug": "status-jeancloude-club",
+    "status": "down",
+    "uptime": "31.38%",
+    "uptimeDay": "31.38%",
+    "uptimeWeek": "31.38%",
+    "uptimeMonth": "31.38%",
+    "uptimeYear": "31.38%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-01-16": 0
     }
   }
 ]
