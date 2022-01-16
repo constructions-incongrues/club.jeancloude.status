@@ -2,13 +2,13 @@ owner: constructions-incongrues
 repo: club.jeancloude.status
 
 sites:
-  - name: allo
+  - name: allo.jeancloude.club
     url: https://allo.jeancloude.club
-  - name: cartemembre
+  - name: cartemembre.jeancloude.club
     url: https://cartemembre.jeancloude.club
-  - name: grisbi
+  - name: grisbi.jeancloude.club
     url: https://grisbi.jeancloude.club
-  - name: status
+  - name: status.jeancloude.club
     url: https://status.jeancloude.club
 
 assignees:
