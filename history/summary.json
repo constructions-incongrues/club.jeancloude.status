@@ -1,9 +1,9 @@
 [
   {
-    "name": "allo",
+    "name": "allo.jeancloude.club",
     "url": "https://allo.jeancloude.club",
     "icon": "https://favicons.githubusercontent.com/allo.jeancloude.club",
-    "slug": "allo",
+    "slug": "allo-jeancloude-club",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
@@ -16,34 +16,14 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-16": 118
+      "2022-01-16": 7
     }
   },
   {
-    "name": "cartemembre",
+    "name": "cartemembre.jeancloude.club",
     "url": "https://cartemembre.jeancloude.club",
     "icon": "https://favicons.githubusercontent.com/cartemembre.jeancloude.club",
-    "slug": "cartemembre",
-    "status": "down",
-    "uptime": "8.31%",
-    "uptimeDay": "8.31%",
-    "uptimeWeek": "8.31%",
-    "uptimeMonth": "8.31%",
-    "uptimeYear": "8.31%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-01-16": 0
-    }
-  },
-  {
-    "name": "grisbi",
-    "url": "https://grisbi.jeancloude.club",
-    "icon": "https://favicons.githubusercontent.com/grisbi.jeancloude.club",
-    "slug": "grisbi",
+    "slug": "cartemembre-jeancloude-club",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
@@ -56,27 +36,47 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-01-16": 118
+      "2022-01-16": 7
     }
   },
   {
-    "name": "status",
+    "name": "grisbi.jeancloude.club",
+    "url": "https://grisbi.jeancloude.club",
+    "icon": "https://favicons.githubusercontent.com/grisbi.jeancloude.club",
+    "slug": "grisbi-jeancloude-club",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-01-16": 7
+    }
+  },
+  {
+    "name": "status.jeancloude.club",
     "url": "https://status.jeancloude.club",
     "icon": "https://favicons.githubusercontent.com/status.jeancloude.club",
-    "slug": "status",
+    "slug": "status-jeancloude-club",
     "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 124,
-    "timeDay": 124,
-    "timeWeek": 124,
-    "timeMonth": 124,
-    "timeYear": 124,
+    "time": 68,
+    "timeDay": 68,
+    "timeWeek": 68,
+    "timeMonth": 68,
+    "timeYear": 68,
     "dailyMinutesDown": {
-      "2022-01-16": 374
+      "2022-01-16": 7
     }
   }
 ]
