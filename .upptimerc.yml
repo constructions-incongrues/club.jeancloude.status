@@ -10,6 +10,8 @@ sites:
     url: https://grisbi.jeancloude.club
   - name: status.jeancloude.club
     url: https://status.jeancloude.club
+  - name: vachercher.jeancloude.club
+    url: https://vachercher.jeancloude.club
 
 assignees:
   - trivoallan
