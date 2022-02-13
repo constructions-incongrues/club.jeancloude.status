@@ -21,7 +21,9 @@ assignees:
 status-website:
   cname: status.jeancloude.club
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Comment allez-vous, Jean-Cloude ?
+  name: Club Jean-Cloude
+  introTitle: Comment allez-vous, Jean-Cloude ?
+
   navbar:
     - title: Club Jean-Cloude
       href: https://status.jeancloude.club
