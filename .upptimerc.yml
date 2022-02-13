@@ -25,5 +25,7 @@ status-website:
   navbar:
     - title: Club Jean-Cloude
       href: https://status.jeancloude.club
+    - title: Constructions Incongrues
+      href: https://status.constructions-incongrues.net
     - title: Pastis Hosting
       href: https://status.pastis-hosting.net
