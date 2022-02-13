@@ -21,9 +21,10 @@ assignees:
 status-website:
   cname: status.jeancloude.club
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Club Jean-Cloude
+  name: Comment allez-vous, Jean-Cloude ?
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  navbar:
+    - title: Club Jean-Cloude
+      href: https://status.pastis-hosting.net
+    - title: Pastis Hosting
+      href: https://status.pastis-hosting.net
