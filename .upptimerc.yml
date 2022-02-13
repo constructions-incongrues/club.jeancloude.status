@@ -23,7 +23,6 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Comment allez-vous, Jean-Cloude ?
   navbar:
-  navbar:
     - title: Club Jean-Cloude
       href: https://status.pastis-hosting.net
     - title: Pastis Hosting
