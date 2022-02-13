@@ -24,6 +24,6 @@ status-website:
   name: Comment allez-vous, Jean-Cloude ?
   navbar:
     - title: Club Jean-Cloude
-      href: https://status.pastis-hosting.net
+      href: https://status.jeancloude.club
     - title: Pastis Hosting
       href: https://status.pastis-hosting.net
