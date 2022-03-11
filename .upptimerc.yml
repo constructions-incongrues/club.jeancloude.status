@@ -4,6 +4,8 @@ repo: club.jeancloude.status
 sites:
   - name: allo.jeancloude.club
     url: https://allo.jeancloude.club
+  - name: backroom.jeancloude.club
+    url: https://backroom.jeancloude.club
   - name: cartemembre.jeancloude.club
     url: https://cartemembre.jeancloude.club
   - name: planque.jeancloude.club
