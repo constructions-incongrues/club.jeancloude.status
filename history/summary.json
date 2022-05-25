@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-25": 107,
+      "2022-05-25": 196,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
@@ -165,7 +165,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-25": 107,
+      "2022-05-25": 196,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
@@ -260,7 +260,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-25": 107,
+      "2022-05-25": 196,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
@@ -409,7 +409,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-25": 107,
+      "2022-05-25": 196,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
@@ -519,18 +519,19 @@
     "url": "https://status.jeancloude.club",
     "icon": "https://favicons.githubusercontent.com/status.jeancloude.club",
     "slug": "status-jeancloude-club",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 131,
-    "timeDay": 214,
-    "timeWeek": 139,
-    "timeMonth": 131,
+    "timeDay": 217,
+    "timeWeek": 149,
+    "timeMonth": 134,
     "timeYear": 131,
     "dailyMinutesDown": {
+      "2022-05-25": 0,
       "2022-01-24": 141,
       "2022-01-23": 135
     }
@@ -552,7 +553,7 @@
     "timeMonth": 285,
     "timeYear": 281,
     "dailyMinutesDown": {
-      "2022-05-25": 107,
+      "2022-05-25": 196,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
@@ -685,7 +686,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-25": 107,
+      "2022-05-25": 196,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
       "2022-05-22": 1440,
